@@ -17,7 +17,7 @@ function App() {
 
 
   return (
-    <Container fluid="xs">
+    <Container fluid="xs" className="App">
       <PortadaComponent />
       <PrologoComponent />
       <BannerSuperiorComponent />
