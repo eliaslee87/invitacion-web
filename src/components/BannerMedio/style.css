@@ -1,6 +1,7 @@
 .text-vertical{
     writing-mode: vertical-rl;
-    text-orientation: mixed;
+/*     text-orientation: mixed; */
+    text-orientation: upright;
     letter-spacing: 0.7rem;
  }
 
