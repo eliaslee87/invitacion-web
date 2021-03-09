@@ -15,7 +15,7 @@ const ModalCoVIDComponent = () => {
     return (
         <>
         <div className="f-Nanum text-center p-5">
-            <h6 className="font-weight-7" onClick={ () => {setShow(true)}}>Protocolo COVID</h6>
+            <h6 className="font-weight-7" onClick={ () => {setShow(true)}}>사회적 거리 및 코로나19 방역수칙</h6>
         </div>
         <Modal show={show} animation={false} className="f-Nanum text-center">
             <Modal.Header className="justify-content-center">
