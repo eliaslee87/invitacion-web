@@ -51,6 +51,12 @@ img { pointer-events: none;}
     }
 }
 
+@media only screen and (min-width: 1400px){
+    .App{
+        margin: 2rem 30rem;
+    }
+}
+
 @media only screen and (min-width: 1600px){
     .App{
         margin: 2rem 40rem;
