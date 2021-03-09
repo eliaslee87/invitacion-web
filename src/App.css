@@ -45,7 +45,7 @@ img { pointer-events: none;}
     }
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1600px){
     .App{
         margin: 2rem 40rem;
     }
