@@ -1,0 +1,11 @@
+.text-vertical{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    letter-spacing: 0.7rem;
+ }
+
+.wedding-label{
+    letter-spacing: 0.7rem;
+    color: lightcoral;
+    margin: 2rem;
+}

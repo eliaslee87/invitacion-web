@@ -1,0 +1,13 @@
+.img-blur{
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+    width: 130%;
+    object-fit: cover;
+}
+
+.center-text-image {
+    position: absolute;
+    top: 47%;
+    text-shadow: 1px 1px 4px black;
+    letter-spacing: 0.7rem;
+}

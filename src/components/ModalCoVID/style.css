@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+.checkBullet li::before {
+    font-family: 'Material Icons';
+    content: "\e876";
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+    margin-right: .5rem;
+    color: green;
+}
