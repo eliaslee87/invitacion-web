@@ -9,7 +9,8 @@ const BannerMedioComponent = () => {
             <div className="text-center">
                 <h6 className="wedding-label">WEDDING DAY</h6>
             </div>
-            <div className="d-flex justify-content-center p-5" style={{backgroundColor: "#f4f4f4"}}>
+            <div className="text-center p-5" style={{backgroundColor: "#f4f4f4"}}>
+                <h5 className="mb-4 font-weight-8">온라인으로 함께하시며 <br/> 축하해주세요!</h5>
                 <a className="btn btn-danger rounded-pill p-3 font-weight-7" href="https://www.youtube.com/user/sinsungiglesia">LIVE 방송으로 가기</a>
             </div>
         </div>
