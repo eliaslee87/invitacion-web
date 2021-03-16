@@ -29,6 +29,7 @@ const ImageSliderComponent = () => {
                 responsive={{0:{items:1,},1024:{items:2}}}
                 disableButtonsControls
                 disableDotsControls
+                touchMoveDefaultEvents={false}
                 items={items}
                 />
         </div>
